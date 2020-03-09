@@ -100,3 +100,9 @@ docker system prune -f
 ssh <username>@<remote-server-address> "docker system prune -f"
 ```
 
+
+
+### Acknowledgments
+
+The project Generalized Operational FLEXibility for Integrating Renewables in the Distribution Grid (GOFLEX) has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 731232.
+
