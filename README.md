@@ -1,3 +1,11 @@
+
+### FlexOffer Agent
+
+The FlexOffer Agent (FOA) is a is an extensible and highly customizable software component of the Flexibility Modeling, Management, and Trading System that is responsible for the generation and execution of FOs for one or multiple flexible loads (both production and consumption).  It forms individual flexoffers, delivers the individual flexoffers to the aggregator software (FMAN), receives disaggregated schedules from the FMAN, and activates the flexible loads according to the received schedules. This open-source version of the FOA software was developed by researchers at the Daisy group, Department of Computer Science, Aalborg University, Denmark. Its performance has been successfully demonstrated in Cyprus, Germany, and Switzerland during the H2020 GOFLEX project (https://goflex-project.eu).
+
+
+
+
 ### Installation using docker
 
 It's very easy to setup and run the app with docker. All you need to do is build a docker image, then either run it in a container locally or push the image to a remote server and run it there. You must install `docker` and `docker-compose` both locally and on remote server if not installed already. 
